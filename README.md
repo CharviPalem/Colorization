@@ -12,4 +12,4 @@ Greater U-Net is a modified version of U-Net with enhanced capabilities, designe
 
 
 ![Output Screenshot](Output/Screenshot%202025-04-20%20050312.png)
-![Output Screenshot2]("Output/Screenshot 2025-04-19 142849.png")
+![Output Screenshot2](Output/Screenshot%2025-04-19%142849.png)
