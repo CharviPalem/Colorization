@@ -11,4 +11,5 @@ U-Net is a popular architecture for image segmentation that uses an encoder-deco
 Greater U-Net is a modified version of U-Net with enhanced capabilities, designed to improve segmentation accuracy and handle more complex image data.
 
 
-
+![Output Screenshot](Output/Screenshot%202025-04-20%20050312.png)
+![Output Screenshot2]("Output/Screenshot 2025-04-19 142849.png")
